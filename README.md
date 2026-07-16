@@ -19,18 +19,6 @@ Durante a resolução dos exercícios, coloco em prática:
 
 ---
 
-## 📂 Organização do Repositório
-
-O projeto é estruturado em subpastas numeradas sequencialmente. Cada uma contém o código-fonte do respectivo exercício:
-
-| Pasta | Descrição do Exercício | Conceito Aplicado |
-| :---: | :--- | :--- |
-| **`ex001/`** | Conversor de moedas (BRL para USD) | Operações matemáticas básicas |
-| **`ex002/`** | Validador de CPF com regras de cálculo | Manipulação de strings e laços |
-| **`ex003/`** | Cadastro de produtos e controle de estoque | Dicionários e funções |
-
-> 💡 *Nota: A numeração em três dígitos (`ex000`) garante que as pastas fiquem perfeitamente ordenadas no GitHub.*
-
 ---
 
 ## 🚀 Como Rodar os Exercícios Localmente
