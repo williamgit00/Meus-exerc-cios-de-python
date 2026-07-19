@@ -1,7 +1,7 @@
 
 rodando = True
 
-while rodando == True:1
+while rodando == True:
     
     print("V1 calculadora")
     print("Escolha a operação desejada:")
