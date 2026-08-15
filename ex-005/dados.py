@@ -60,7 +60,7 @@ def dados(jogador):
     # (7) ACERTO CRÍTICO: ARMA LENDÁRIA + RESTAURA VIDA
     elif resultado == 7:
         classe = jogador.get("classe", "Guerreiro").lower()
-        print("🌟 ACERTO CRÍTICO! Os deuses te abençoaram!")
+        print("ACERTO CRÍTICO! Os deuses te abençoaram!")
         
         if classe == "mago":
             lendaria = CAJADOS["lendaria"][0]
